@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "26be6e44a3f7b015",
+    "type": "split",
+    "children": [
+      {
+        "id": "6926f33a214a0c39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7723bbd1bfb26281",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26e1e5d3af452183",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b1df27cb5684f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eaad155e9fe966c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c146a0b596c84d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7869772ff4c7e78",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5110321044922
+  },
+  "right": {
+    "id": "f445d6384d8614ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "e646246a04444204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e50cc2bef56139b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3604fce247d5339b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aef463b2cbb2b080",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57de954126a76931",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7723bbd1bfb26281",
+  "lastOpenFiles": [
+    "Gla_B/Interge System Design Project/Final_Report/Report.md",
+    "Gla_B/Interge System Design Project/2023_02_20/找资料.md",
+    "Gla_B/Embeded System Design/Lecs.md",
+    "Gla_B/Interge System Design Project/assets/ISDPM Project Brief 2023 v2-20230115224946-ipvo2ea.pdf",
+    "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+    "Gla_B/Embeded System Design/Github.md",
+    "建议/Github仓库容量.md",
+    "Gla_B/Embeded System Design/课程选题/Github 1.md",
+    "Gla_B/Interge System Design Project/Meeting/assets/截图_20230313113305.png",
+    "Gla_B/Interge System Design Project/Meeting/2023年3月13日.md"
+  ]
+}
