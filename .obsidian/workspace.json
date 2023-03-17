@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6926f33a214a0c39",
+        "id": "e35313f19e4b5f0e",
         "type": "tabs",
         "children": [
           {
-            "id": "7723bbd1bfb26281",
+            "id": "e6bbf367cd5fa4ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5110321044922
+    "width": 211.0110321044922
   },
   "right": {
     "id": "f445d6384d8614ff",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+                "file": "Plan.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md"
+                "file": "Plan.md"
               }
             }
           }
@@ -135,8 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,17 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7723bbd1bfb26281",
+  "active": "e6bbf367cd5fa4ff",
   "lastOpenFiles": [
-    "Gla_B/Interge System Design Project/Final_Report/Report.md",
-    "Gla_B/Interge System Design Project/2023_02_20/找资料.md",
-    "Gla_B/Embeded System Design/Lecs.md",
-    "Gla_B/Interge System Design Project/assets/ISDPM Project Brief 2023 v2-20230115224946-ipvo2ea.pdf",
-    "Gla_B/Interge System Design Project/Final_Report/Carbon_Accounting.md",
-    "Gla_B/Embeded System Design/Github.md",
-    "建议/Github仓库容量.md",
-    "Gla_B/Embeded System Design/课程选题/Github 1.md",
-    "Gla_B/Interge System Design Project/Meeting/assets/截图_20230313113305.png",
-    "Gla_B/Interge System Design Project/Meeting/2023年3月13日.md"
+    "Gla_B/Software Engeneering/Assesmnent2.md",
+    "Plan.md",
+    "Gla_B/Embeded System Design/程序/Realtime.md",
+    "Gla_B/Embeded System Design/程序/Pigpio.md",
+    "Gla_B/Embeded System Design/程序/Question.md",
+    "Gla_B/Embeded System Design/程序/Cmake.md",
+    "Gla_B/Embeded System Design/程序/Schedule.md",
+    "Gla_B/Embeded System Design/程序/引脚图.md",
+    "Gla_B/Embeded System Design/老师写的嵌入式书籍.md",
+    "Gla_B/Embeded System Design/assets/realtime_embedded_coding zh.pdf"
   ]
 }
